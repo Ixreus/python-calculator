@@ -2,18 +2,6 @@
 A simple four-action calculator coded in Python.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
  _   __ _                                  _      
 | | / /| |                                | |     
 | |/ / | |__    __ _  _ __   _ __    ___  | | ___ 
@@ -22,3 +10,4 @@ A simple four-action calculator coded in Python.
 \_| \_/|_| |_| \__,_|| .__/ |_| |_| \___/ |_||___/
                      | |                          
                      |_|                          
+       
